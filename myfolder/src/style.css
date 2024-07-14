@@ -1,0 +1,21 @@
+.form{
+    font-size: 30px;
+    color: blue;
+}
+input{
+    padding: 10px;
+    padding-left: 20px;
+}
+.btn{
+    padding: 10px;
+    color: white;
+    background-color: blue;
+}
+.card{
+    height: 300px;
+    width: 500px;
+    padding: 40px;
+    margin: 50px;
+    border: solid 2px ;
+
+}
